@@ -13,7 +13,7 @@ This assignment uses the pre-trained YOLOv7 model to perform three object-detect
 | `task1_players.mp4` | Task 1 — players detected in the football clip |
 | `task2_ball.mp4` | Task 2 — sports ball detected in the football clip |
 | `task3_webcam.jpg` | Task 3 — webcam capture showing a mis-detection |
-| `Homework4_YOLOv7.ipynb` | Full Colab notebook with every command and its terminal output |
+| `YOLOv7.ipynb` | Full Colab notebook with every command and its terminal output |
 | `README.md` | This file |
 
 ## Explanation of the command line
