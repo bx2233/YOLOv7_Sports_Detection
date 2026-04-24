@@ -1,8 +1,6 @@
-# Homework #4 — YOLOv7 Object Detection
+YOLOv7 Object Detection (Soccer Game)
 
 **Course:** GR5293 Applied Machine Learning for Computer Vision
-**Instructor:** Xiaofu He
-**Semester:** Spring 2026
 
 ## Overview
 
